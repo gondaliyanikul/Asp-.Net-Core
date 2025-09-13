@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/dharmesh/Dharmesh/Nikul/Asp.net Core/EntityCrudAPI/EntityCrudAPI.csproj",
+      "projectUniqueName": "/media/dharmesh/Dharmesh/Nikul/Asp-.Net-Core/EntityCrudAPI/EntityCrudAPI.csproj",
       "projectName": "EntityCrudAPI",
-      "projectPath": "/media/dharmesh/Dharmesh/Nikul/Asp.net Core/EntityCrudAPI/EntityCrudAPI.csproj",
+      "projectPath": "/media/dharmesh/Dharmesh/Nikul/Asp-.Net-Core/EntityCrudAPI/EntityCrudAPI.csproj",
       "packagesPath": "/home/dharmesh/.nuget/packages/",
-      "outputPath": "/media/dharmesh/Dharmesh/Nikul/Asp.net Core/EntityCrudAPI/obj/",
+      "outputPath": "/media/dharmesh/Dharmesh/Nikul/Asp-.Net-Core/EntityCrudAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dharmesh/.nuget/NuGet/NuGet.Config"

@@ -9,7 +9,7 @@ namespace STD.Controllers
     public class StudentController : ControllerBase
     {
 
-        
+        //student Model
 
     }
 
